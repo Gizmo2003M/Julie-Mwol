@@ -64,7 +64,7 @@ $ node julie.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://https://Wa.me/+212688925780?text=ʜɪㅤw)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gizmo2003M&repo=Julie-Mwol&theme=nightowl)](https://github.com/Gizmo2003M/Julie-Mwol)
@@ -76,7 +76,7 @@ Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
 Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
-```
+``
 
 ## Developers
   <div align="center">
@@ -84,7 +84,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   [![GIZMO2003M](https://github.com/Gizmo2003M.png?size=100)](https://github.com/Gizmo2003M) |  [![shahid-devil](https://github.com/shahid-devil.png?size=100)](https://github.com/shahid-devil) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
 [Gizmo2003M](https://github.com/Gizmo2003M)  | [shahid-devil](https://github.com/shahid-devil) | [afnanplk](https://github.com/afnanplk)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
 
