@@ -60,7 +60,7 @@ $ node julie.js
 <a href="https://github.com/Gizmo2003M/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Gizmo2003M/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-## 📢 Guide
+## 📢 Guide🙃
 Click WA logo to Join Support Group 👇
     <br>
 <br>
